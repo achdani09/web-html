@@ -22,5 +22,10 @@
             <p id="form-status"></p>
         </form>
     </div>
+
+    <div class="success-container" id="success-message-section" style="display: none;">
+        <h1>selmat,pesan anda sudah terkirim</h1>
+        <p>terima kaish telah menghubungi kami, kami akan menindaklanjuti pesan anda.</p>
+    </div>
 </body>
 </html>
