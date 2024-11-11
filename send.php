@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div class="contact-form-container" id="contact-form-section">
+        <h1>kontak kami</h1>
+        <form id="contact-form">
+            <label for="name">nama:</label>
+            <input type="text" id="name" name="name" required>
+        </form>
+    </div>
 </body>
 </html>
