@@ -17,6 +17,9 @@
 
             <label for="message">pesan:</label>
             <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">kirim</button>
+            <p id="form-status"></p>
         </form>
     </div>
 </body>
