@@ -11,6 +11,12 @@
         <form id="contact-form">
             <label for="name">nama:</label>
             <input type="text" id="name" name="name" required>
+             
+            <label for="email">email:</label>
+            <input type="text" id="email" name="email" required>
+
+            <label for="message">pesan:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
         </form>
     </div>
 </body>
